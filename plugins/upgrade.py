@@ -16,19 +16,19 @@ async def upgrade(bot,update):
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 49/ᴍᴏɴᴛʜ.</a> 
+👉     ʙᴜʏ  <a href='https://pay.upilink.in/pay/6371434453@fam'>₹ 19/ᴍᴏɴᴛʜ.</a> 
 	
 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 99/ᴍᴏɴᴛʜ.</a>  
+👉     ʙᴜʏ  <a href='https://pay.upilink.in/pay/6371434453@fam'>₹ 49/ᴍᴏɴᴛʜ.</a>  
 	
 
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://pay.upilink.in/pay/6371434453@fam'>₹ 99/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -37,13 +37,13 @@ async def upgrade(bot,update):
 	keybord = InlineKeyboardMarkup(
                 [
                     [
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/Ak74400')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/ROHANKUMAR188')
             ],
                     [
-            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
+            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://pay.upilink.in/pay/6371434453@fam')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/Ak74400'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/ROHANKUMAR188'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
@@ -66,19 +66,19 @@ async def upgradecm(bot,message):
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 49/ᴍᴏɴᴛʜ.</a> 
+👉     ʙᴜʏ  <a href='https://pay.upilink.in/pay/6371434453@fam'>₹ 19/ᴍᴏɴᴛʜ.</a> 
 	
 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 99/ᴍᴏɴᴛʜ.</a>  
+👉     ʙᴜʏ  <a href='https://pay.upilink.in/pay/6371434453@fam'>₹ 49/ᴍᴏɴᴛʜ.</a>  
 	
 
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://pay.upilink.in/pay/6371434453@fam'>₹ 99/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -87,13 +87,13 @@ async def upgradecm(bot,message):
 	keybord = InlineKeyboardMarkup(
                 [
                     [
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/Ak74400')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/ROHANKUMAR188')
             ],
                     [
             InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/Ak74400'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/ROHANKUMAR188'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
